@@ -1,0 +1,9 @@
+Biomarker,Feature_Column,Kruskal_H_Statistic,P_Value,Significant_at_0.05,Eta_Squared_Effect_Size,Effect_Magnitude,P_Val_Relaxed_vs_Sympathetic,P_Val_Parasym_vs_Sympathetic,P_Val_Relaxed_vs_Parasym,Sig_Rel_vs_Sym_Bonferroni,Sig_Para_vs_Sym_Bonferroni
+EDA (Mean Skin Conductance),eda_microsiemens_mean,18.1,0.00011737359167110045,Yes,0.0676,Medium,0.2308986867624131,1.9765964846882245e-05,0.07689456386207744,No,Yes
+EDA (Phasic Variability),eda_microsiemens_std_dev,14.644,0.0006607165729314722,Yes,0.0531,Small,0.009958635815565761,0.19579051731510477,0.00012734526738117233,Yes,No
+RR Interval (Mean Heart Period),rr_interval_milliseconds_mean,17.555,0.00015417542571741872,Yes,0.0654,Medium,0.001447279952676235,0.00010513037819720658,0.8589805177969358,Yes,Yes
+RR Interval (HRV Std Dev),rr_interval_milliseconds_std_dev,60.456,7.4497151729653e-14,Yes,0.2456,Large,5.623966259856653e-10,0.005343954817347146,4.056709912210503e-13,Yes,Yes
+Skin Temperature (Mean),temperature_celcius_mean,8.114,0.01730463615124494,Yes,0.0257,Small,0.002467812339004679,0.070819634521938,0.22373076260023605,Yes,No
+BVP Light Absorption (RMS),bvp_light_absorption_nW_rms,42.103,7.201222245327994e-10,Yes,0.1685,Large,0.0021851209912250973,5.941623869336832e-06,3.074966178121197e-08,Yes,Yes
+Accelerometer Magnitude (Mean),accelerometer_magnitude_mean,11.622,0.002994440282673402,Yes,0.0404,Small,0.08576472832688764,0.036030275357260534,0.0019760295627010297,No,No
+Accelerometer Tremor (Std Dev),accelerometer_magnitude_std_dev,88.904,4.951858098018684e-20,Yes,0.3651,Large,2.623254096850986e-07,5.626961903823089e-10,4.706554606244925e-16,Yes,Yes
